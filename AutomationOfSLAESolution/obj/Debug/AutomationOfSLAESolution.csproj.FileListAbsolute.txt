@@ -1,0 +1,121 @@
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.exe
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csprojAssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.Properties.Resources.resources
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.GenerateResource.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.exe
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\LinearGraph.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\LinearGraph.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\BasicColumn.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\BasicColumn.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.exe
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\BasicColumn.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\LinearGraph.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\BasicColumn.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\LinearGraph.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.Properties.Resources.resources
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.GenerateResource.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.exe
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.exe
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\AutomationOfSLAESolution.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\ControlzEx.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\MahApps.Metro.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\BasicColumn.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\LinearGraph.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\BasicColumn.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\LinearGraph.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.Properties.Resources.resources
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.GenerateResource.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.exe
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\AutomationOfSLAESolution\obj\Debug\AutomationOfSLAESolution.csproj.SuggestedBindingRedirects.cache

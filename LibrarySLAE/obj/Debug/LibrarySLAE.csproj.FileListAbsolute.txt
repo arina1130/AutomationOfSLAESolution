@@ -1,0 +1,24 @@
+C:\Users\arina\source\repos\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.dll
+C:\Users\arina\source\repos\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.pdb
+C:\Users\arina\source\repos\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csprojAssemblyReference.cache
+C:\Users\arina\source\repos\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.dll
+C:\Users\arina\source\repos\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csprojAssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Численные методы\Курсовая\Пробники проекта\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\bin\Debug\LibrarySLAE.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\Численные методы\Курсовая\AutomationOfSLAESolution\LibrarySLAE\obj\Debug\LibrarySLAE.pdb

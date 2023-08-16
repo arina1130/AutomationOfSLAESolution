@@ -1,0 +1,105 @@
+﻿<mah:MetroWindow x:Class="AutomationOfSLAESolution.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:AutomationOfSLAESolution"
+        mc:Ignorable="d"
+        Title="MainWindow" Width="850" Height="620" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Решение СЛАУ">
+                <Grid Margin="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="75*"/>
+                        <ColumnDefinition Width="200*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10*"/>
+                        <RowDefinition Height="6*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Column="0" Grid.Row="0">
+                        <GroupBox Header="Настройки" VerticalAlignment="Top" HorizontalAlignment="Left" Padding="5" Width="210" Height="170">
+                            <StackPanel>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40">
+                                    <Label Content="Уравнения: " FontSize="18"/>
+                                    <Button Content="+" x:Name="addEquationButton" Padding="0" Width="30" FontSize="16" Height="30" Margin="5 0 7 0" ToolTip="Добавить уравнение к системе" Click="addEquationButton_Click"/>
+                                    <Button Content="-" x:Name="delEquationButton"  Padding="0" Width="30" FontSize="16" Height="30" Margin="7 0 0 0" ToolTip="Удалить уравнение из системы" Click="delEquationButton_Click"/>
+                                </StackPanel>
+                                <StackPanel Margin="0 3" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40">
+                                    <Label Content="Точность: " FontSize="18"/>
+                                    <TextBox Name="accuracyBox" Text="0,01" Width="100" FontSize="16" VerticalContentAlignment="Center"/>
+                                </StackPanel>
+                                <StackPanel Margin="0 3" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40">
+                                    <Label Content="ω: " FontSize="18"/>
+                                    <TextBox Name="paramBox" Text="1,12" Width="90" FontSize="16" VerticalContentAlignment="Center"/>
+                                    <Label Content="∈ (0;2) " FontSize="18"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </GroupBox>
+                        <Button Name="solve" Content="Найти решение" HorizontalAlignment="Left" Height="40" FontSize="14" Margin="7 10 0 0" Width="195" Click="solve_Click"/>
+                        <Button Name="clear" Content="Очистить" HorizontalAlignment="Left" Height="40" FontSize="14" Margin="7 10 0 0" Width="195" Click="clear_Click" />
+                    </StackPanel>
+                    <GroupBox Grid.Row="0" Header="Система уравнений" VerticalAlignment="Top" Height="auto" HorizontalAlignment="Left" Width="auto" Padding="5" Grid.Column="1">
+                        <StackPanel Name="equationSystemPanel" Width="auto" Height="auto" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    </GroupBox>
+                    <GroupBox Grid.Row="1" Grid.ColumnSpan="2" Header="Решение системы" VerticalAlignment="Top" Height="auto" Margin="0 0 10 0" HorizontalAlignment="Stretch" Width="auto" Padding="5" Grid.Column="0">
+                        <DataGrid Name="solutionSystemGrid" FontSize="16">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Width="5*" Binding="{Binding NameX}" Header="Переменная"/>
+                                <DataGridTextColumn Width="7*" Binding="{Binding Zeidel}" Header="Метод Гаусса-Зейделя"/>
+                                <DataGridTextColumn Width="7*" Binding="{Binding Jacobi}" Header="Метод Якоби"/>
+                                <DataGridTextColumn Width="7*" Binding="{Binding Relaxation}" Header="Метод релаксации"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Анализ решения" IsEnabled="True" Name="analysisTab">
+                <TabControl mah:HeaderedControlHelper.HeaderFontSize="20" TabStripPlacement="Right" Background="#CCFFF3F6">
+                    <TabItem Header="Скорость">
+                        <TabControl Background="#CCFFF3F6" mah:HeaderedControlHelper.HeaderFontSize="16">
+                            <TabItem Header="Метод Якоби">
+                                <local:LinearGraph x:Name="jSGraph"></local:LinearGraph>
+                            </TabItem>
+                            <TabItem Header="Метод Гаусса-Зейделя">
+                                <local:LinearGraph x:Name="zSGraph"></local:LinearGraph>
+                            </TabItem>
+                            <TabItem Header="Метод релаксации">
+                                <local:LinearGraph x:Name="rSGraph"></local:LinearGraph>
+                            </TabItem>
+                        </TabControl>
+                    </TabItem>
+                    <TabItem Header="Точность">
+                        <TabControl Background="#CCFFF3F6" mah:HeaderedControlHelper.HeaderFontSize="16">
+                            <TabItem Header="Метод Якоби">
+                                <local:LinearGraph x:Name="jAGraph"></local:LinearGraph>
+                            </TabItem>
+                            <TabItem Header="Метод Гаусса-Зейделя">
+                                <local:LinearGraph x:Name="zAGraph"></local:LinearGraph>
+                            </TabItem>
+                            <TabItem Header="Метод релаксации">
+                                <local:LinearGraph x:Name="rAGraph"></local:LinearGraph>
+                            </TabItem>
+                        </TabControl>
+                    </TabItem>
+                    <TabItem Header="Сравение">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <GroupBox Header="Время поиска решения">
+                                <local:BasicColumn x:Name="speedBas"/>
+                            </GroupBox>
+                            <GroupBox Grid.Row="1" Header="Количество итераций">
+                                <local:BasicColumn x:Name="iterBas"/>
+                            </GroupBox>
+                        </Grid>                        
+                    </TabItem>
+                </TabControl>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</mah:MetroWindow>
